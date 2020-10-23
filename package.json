@@ -1,0 +1,14 @@
+{
+  "name": "chap5-1",
+  "version": "1.0.0",
+  "description": "chap5-1 basic server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "huaqiang",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^2.4.6"
+  }
+}
